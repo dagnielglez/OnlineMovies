@@ -17,11 +17,3 @@ def inicio():
 
 if __name__ == '__main__':
     app.run(debug=True)
-#INSTALAR PYMYSQL EN EL ENTORNO VIRTUAL
-#ACTIVA EL ENTORNO VIRTUAL Y: pip install pymysql
-#COMPILA LA PAGINA: python run.py
-#FINALIZA AGREGANDO AL REPOSTORIO: git add .
-#CREA UN COMMIT: git commit -m "Hemos conectado base de datos"
-#Y guarda todo en la rama maestra: git push -u origin master
-
-#Puedes confirmar en la pagina dde github si se han guardado los cambios
